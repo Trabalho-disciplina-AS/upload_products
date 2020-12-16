@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Racao whiskas",
+    "price": 15,
+    "discount_price": 0,
+    "discount": true,
+    "category": "alimentos",
+    "image": "whiskas"
+  },
+  {
+    "name": "Ração para Cães Adultos Pedigree Carne",
+    "price": 119.99,
+    "discount_price": 0,
+    "discount": true,
+    "category": "alimentos",
+    "image": "pedigree"
+  },
+  {
+    "name": "Shampoo Pet Clean 3 Em 1 para Cães - 5 Litros",
+    "price": 48.5,
+    "discount_price": 0,
+    "discount": true,
+    "category": "limpeza",
+    "image": "shampoo"
+  },
+  {
+    "name": "Simparic 80mg, 20,1 até 40kg, 03 Compr Zoetis para Cães",
+    "price": 199.8,
+    "discount_price": 0,
+    "discount": true,
+    "category": "remedios",
+    "image": "simparic"
+  },
+  {
+    "name": "Dog Toilet Furacão Pet, Grade Azul Furacão Pet para Cães",
+    "price": 62.99,
+    "discount_price": 0,
+    "discount": true,
+    "category": "acessorios",
+    "image": "toilet"
+  },
+  {
+    "name": "Ração Seca Origens Premium Especial Carne e Cereais Cães Adultos - 1 Kg",
+    "price": 15.6,
+    "discount_price": 0,
+    "discount": true,
+    "category": "alimentos",
+    "image": "origens"
+  },
+  {
+    "name": "Ração Úmida Whiskas Sachê Atum ao Molho para Gatos Adultos",
+    "price": 2.29,
+    "discount_price": 0,
+    "discount": true,
+    "category": "alimentos",
+    "image": "whiskas-sache"
+  },
+  {
+    "name": "Ração Guabi Natural Grain Free Frango e Lentilha para Cães Adultos Raças Médias - 2,5 Kg",
+    "price": 85.31,
+    "discount_price": 0,
+    "discount": true,
+    "category": "alimentos",
+    "image": "guabi"
+  },
+  {
+    "name": "Casinha Chalé Ecológica Recriar Pet Vermelha - Tam. 04",
+    "price": 206.91,
+    "discount_price": 0,
+    "discount": true,
+    "category": "acessorios",
+    "image": "casinha"
+  },
+  {
+    "name": "Comedouro Hello Pet Puppy Cat - Mármore",
+    "price": 169.99,
+    "discount_price": 0,
+    "discount": true,
+    "category": "acessorios",
+    "image": "comedouro"
+  },
+  {
+    "name": "Acessório Bragança para Gaiola - Tubo Divertido - Acessório Bragança para Gaiola Tubo Divertido",
+    "price": 11.99,
+    "discount_price": 0,
+    "discount": true,
+    "category": "acessorios",
+    "image": "brinq-gaiola"
+  },
+  {
+    "name": "Protetor de Membros Posteriores Pet Med Duo Dry Color para Cães - Tam. 13",
+    "price": 90.94,
+    "discount_price": 0,
+    "discount": true,
+    "category": "acessorios",
+    "image": "protetor"
+  },
+  {
+    "name": "Areia Sanitária Kelco Pipicat Classic - 12 Kg",
+    "price": 23.31,
+    "discount_price": 0,
+    "discount": true,
+    "category": "limpeza",
+    "image": "pipicat"
+  },
+  {
+    "name": "Shampoo Limpeza Profunda empóriopet Raspa de Juá para Cães e Gatos - 300 mL",
+    "price": 25.33,
+    "discount_price": 0,
+    "discount": true,
+    "category": "limpeza",
+    "image": "guabi"
+  },
+  {
+    "name": "Tapete Higiênico Expet Pads Max - 7 Unidades",
+    "price": 17.99,
+    "discount_price": 0,
+    "discount": true,
+    "category": "limpeza",
+    "image": "tapete"
+  },
+  {
+    "name": "Postinho Chalesco Pipi Park Educador Sanitário - Vermelho",
+    "price": 13.79,
+    "discount_price": 0,
+    "discount": true,
+    "category": "limpeza",
+    "image": "cone"
+  },
+  {
+    "name": "Antipulgas e Carrapatos MSD Bravecto para Cães de 4,5 a 10 Kg - 250 mg",
+    "price": 171.9,
+    "discount_price": 0,
+    "discount": true,
+    "category": "remedios",
+    "image": "bravecto"
+  },
+  {
+    "name": "Vermífugo Biovet Vermivet Composto 600 mg para Cães e Gatos - 4 comprimidos",
+    "price": 8.49,
+    "discount_price": 0,
+    "discount": true,
+    "category": "remedios",
+    "image": "vermivet"
+  },
+  {
+    "name": "Suplemento Vitamínico Avert Hemolipet para Cães e Gatos - 60 mL",
+    "price": 49.99,
+    "discount_price": 0,
+    "discount": true,
+    "category": "remedios",
+    "image": "suplemento"
+  },
+  {
+    "name": "Aminomix Pet Comprimidos - 120 comprimidos",
+    "price": 101.49,
+    "discount_price": 0,
+    "discount": true,
+    "category": "remedios",
+    "image": "amino"
+  },
+  {
+    "name": "Suplemento Glicopan Pet",
+    "price": 59.36,
+    "discount_price": 0,
+    "discount": true,
+    "category": "remedios",
+    "image": "glicopan"
+  },
+  {
+    "name": "Suplemento Alimentar Nutrafases Vitaminas para Cães",
+    "price": 61.20,
+    "discount_price": 0,
+    "discount": true,
+    "category": "remedios",
+    "image": "nutrafases"
+  },
+  {
+    "name": "Antipulgas e Carrapatos NexGard para Cães de 2 a 4kg",
+    "price": 174.50,
+    "discount_price": 0,
+    "discount": true,
+    "category": "remedios",
+    "image": "antipulgas"
+  },
+  {
+    "name": "Ração Nutricon Turtle para Tartarugas",
+    "price": 54.99,
+    "discount_price": 0,
+    "discount": true,
+    "category": "alimentos",
+    "image": "turtle"
+  },
+  {
+    "name": "Ração Nutrópica para Calopsitas Natural",
+    "price": 165.90,
+    "discount_price": 0,
+    "discount": true,
+    "category": "alimentos",
+    "image": "passaro"
+  },
+  {
+    "name": "Nutrópica Coelho Adulto",
+    "price": 199.99,
+    "discount_price": 0,
+    "discount": true,
+    "category": "alimentos",
+    "image": "coelho"
+  },
+  {
+    "name": "Racao whiskas",
+    "price": 15.00,
+    "discount": false,
+    "category": "alimentos",
+    "image": "coelho"
+  },
+  {
+    "name": "Ração para Cães Adultos Pedigree Carne",
+    "price": 119.99,
+    "discount": true,
+    "category": "alimentos",
+    "image": "pedigree2"
+  },
+  {
+    "name": "Shampoo Pet Clean 3 Em 1 para Cães - 5 Litros",
+    "price": 48.50,
+    "discount": false,
+    "category": "limpeza",
+    "image": "shampoo2"
+  },
+  {
+    "name": "Simparic 80mg, 20,1 até 40kg, 03 Compr Zoetis para Cães",
+    "price": 199.80,
+    "discount": true,
+    "category": "remedios",
+    "image": "simparic2"
+  },
+  {
+    "name": "Dog Toilet Furacão Pet, Grade Azul Furacão Pet para Cães",
+    "price": 62.99,
+    "discount": true,
+    "category": "acessorios",
+    "image": "toilet2"
+  }
+]
